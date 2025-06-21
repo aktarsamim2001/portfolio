@@ -5,9 +5,9 @@ import { Github, Linkedin, Mail, Heart } from "lucide-react"
 import Link from "next/link"
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: Mail, href: "mailto:alex@example.com", label: "Email" },
+  { icon: Github, href: "https://github.com/samimaktar", label: "GitHub" },
+  { icon: Linkedin, href: "https://linkedin.com/in/aktar-samim529", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:aktarsamim529@gmail.com", label: "Email" },
 ]
 
 const quickLinks = [

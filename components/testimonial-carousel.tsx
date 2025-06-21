@@ -157,21 +157,6 @@ export default function TestimonialCarousel() {
               <ChevronRight className="h-5 w-5" />
             </Button>
           </div>
-
-          {/* Indicators */}
-          <div className="flex justify-center gap-2 mt-6">
-            {testimonials.map((_, index) => (
-              <button
-                key={index}
-                onClick={() => setCurrentIndex(index)}
-                className={`w-3 h-3 rounded-full transition-all duration-300 ${
-                  index === currentIndex
-                    ? "bg-blue-600 w-8"
-                    : "bg-slate-300 dark:bg-slate-600 hover:bg-slate-400 dark:hover:bg-slate-500"
-                }`}
-              />
-            ))}
-          </div>
         </div>
       </motion.div>
     </section>

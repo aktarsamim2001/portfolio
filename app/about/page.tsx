@@ -10,7 +10,7 @@ const skills = [
   {
     category: "Frontend",
     icon: Palette,
-    skills: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    skills: ["React", "Redux", "Next.js", "JavaScript", "TypeScript", "Tailwind CSS", "Framer Motion"],
     color: "from-blue-500 to-cyan-500",
   },
   {
@@ -22,7 +22,7 @@ const skills = [
   {
     category: "Tools & Others",
     icon: Zap,
-    skills: ["Git", "Docker", "AWS", "Figma", "Vercel"],
+    skills: ["Git", "Docker", "AWS", "Figma", "Vercel","Postman"],
     color: "from-purple-500 to-pink-500",
   },
 ]

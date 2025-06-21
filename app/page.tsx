@@ -122,12 +122,12 @@ export default function HomePage() {
               {[
                 {
                   icon: Github,
-                  href: "https://github.com",
+                  href: "https://github.com/samimhub",
                   label: "GitHub",
                   color: "hover:text-slate-900 dark:hover:text-white",
                 },
-                { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn", color: "hover:text-blue-600" },
-                { icon: Mail, href: "mailto:alex@example.com", label: "Email", color: "hover:text-indigo-600" },
+                { icon: Linkedin, href: "https://linkedin.com/in/aktar-samim529", label: "LinkedIn", color: "hover:text-blue-600" },
+                { icon: Mail, href: "mailto:aktarsamim529@gmail.com", label: "Email", color: "hover:text-indigo-600" },
               ].map(({ icon: Icon, href, label, color }) => (
                 <motion.a
                   key={label}
@@ -156,8 +156,8 @@ export default function HomePage() {
               {/* Profile Image */}
               <div className="relative w-full h-full rounded-3xl overflow-hidden border-4 border-white/20 dark:border-slate-800/20 shadow-2xl backdrop-blur-sm">
                 <img
-                  src="https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-600nw-1714666150.jpg"
-                  alt="Alex Johnson - Senior Full Stack Developer"
+                  src="./profile_image.jpg"
+                  alt="Samim Aktar - Junior Frontend Developer"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-blue-900/20 to-transparent" />

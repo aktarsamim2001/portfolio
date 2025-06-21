@@ -13,35 +13,35 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Alex Johnson - Senior Full Stack Developer",
+  title: "Samim Aktar - Junior Developer",
   description:
-    "Award-winning Full Stack Developer with 5+ years of experience crafting exceptional digital experiences. Specializing in React, Next.js, and scalable web applications.",
-  keywords: ["Senior Full Stack Developer", "React Expert", "Next.js", "TypeScript", "Web Development", "UI/UX"],
-  authors: [{ name: "Alex Johnson" }],
-  creator: "Alex Johnson",
+    "Award-winning Full Stack Developer with 1.5+ years of experience crafting exceptional digital experiences. Specializing in React, Next.js, and scalable web applications.",
+  keywords: ["Junior Developer", "React Expert", "Next.js", "TypeScript", "Web Development", "UI/UX"],
+  authors: [{ name: "Samim Aktar" }],
+  creator: "Samim Aktar",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://alexjohnson.dev",
-    title: "Alex Johnson - Senior Full Stack Developer",
+    url: "https://samimaktar.dev",
+    title: "Samim Aktar - Junior Frontend Developer",
     description:
-      "Award-winning Full Stack Developer with 5+ years of experience crafting exceptional digital experiences.",
-    siteName: "Alex Johnson Portfolio",
+      "Award-winning Full Stack Developer with 1.5+ years of experience crafting exceptional digital experiences.",
+    siteName: "Samim Aktar Portfolio",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Alex Johnson - Senior Full Stack Developer",
+        alt: "Samim Aktar - Junior Frontend Developer",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alex Johnson - Senior Full Stack Developer",
+    title: "Samim Aktar - Junior Frontend Developer",
     description:
-      "Award-winning Full Stack Developer with 5+ years of experience crafting exceptional digital experiences.",
-    creator: "@alexjohnson",
+      "Award-winning Full Stack Developer with 1.5+ years of experience crafting exceptional digital experiences.",
+    creator: "@samimaktar",
   },
   robots: {
     index: true,
