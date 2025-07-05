@@ -77,7 +77,7 @@ export default function HomePage() {
                 className="text-5xl lg:text-7xl xl:text-8xl font-bold bg-gradient-to-r from-slate-900 via-blue-900 to-slate-900 dark:from-white dark:via-blue-100 dark:to-white bg-clip-text text-transparent leading-tight"
               />
               <AnimatedText
-                text="Junior React Stack Developer"
+                text="Junior Frontend Developer"
                 className="text-2xl lg:text-3xl xl:text-4xl font-semibold text-blue-600 dark:text-blue-400"
                 delay={0.3}
               />
