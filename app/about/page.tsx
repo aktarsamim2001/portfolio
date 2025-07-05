@@ -29,27 +29,28 @@ const skills = [
 
 const experience = [
   {
-    title: "Senior Full Stack Developer",
-    company: "TechCorp Inc.",
-    period: "2022 - Present",
+    title: "Trainee Frontend Developer",
+    company: "Notebrains Software and Services Pvt. Ltd",
+    period: "9th December 2024 - 9th February 2025",
     description:
-      "Leading development of scalable web applications using React and Node.js. Mentoring junior developers and architecting system solutions.",
+      "Completed training in HTML, CSS, and JavaScript. Assisted in building small website components and fixing bugs under supervision.",
   },
   {
-    title: "Frontend Developer",
-    company: "StartupXYZ",
-    period: "2021 - 2022",
+    title: "Junior Frontend Developer",
+    company: "Notebrains Software and Services Pvt. Ltd",
+    period: "9th February 2025 - Present",
     description:
-      "Built responsive web applications and improved user experience. Collaborated with design team to implement pixel-perfect interfaces.",
+      "Building responsive web pages with React and Tailwind CSS. Working closely with the design team and backend developers to deliver user-friendly interfaces.",
   },
   {
-    title: "Junior Developer",
-    company: "WebSolutions",
-    period: "2020 - 2021",
+    title: "Exploring Full Stack Development",
+    company: "Self-Learning & Freelance",
+    period: "2025 - Present",
     description:
-      "Developed and maintained client websites. Gained experience in modern web technologies and best practices.",
+      "Enhancing skills in backend development with Node.js and MongoDB. Working on personal projects to understand API development, deployment, and database design.",
   },
-]
+];
+
 
 export default function AboutPage() {
   return (
